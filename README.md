@@ -18,12 +18,6 @@ Este repositório reúne meus projetos de **análise de dados desenvolvidos no M
 - 📆 Filtro de ano (2025/2026)
 - 👨‍🏫 Baseado em aula do professor João Paulo – [Canal Excelente João](https://www.youtube.com/@ExcelenteJoao)
 
-### 2. [Nome do próximo projeto]
-> _Adicione aqui uma breve descrição do projeto assim que estiver finalizado._
-
-### 3. [Em breve...]
-> _Este espaço será atualizado conforme novos dashboards forem criados._
-
 ## 📈 Objetivo do Repositório
 
 Demonstrar a **aplicação prática do Excel na análise de dados**, com foco em:
