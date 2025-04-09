@@ -40,6 +40,6 @@ Me chamo **Stephanie Souza** e estou construindo meu portfólio na área de **an
 
 📬 **Vamos nos conectar!**  
 [LinkedIn](https://www.linkedin.com/in/stephanie-souza-df/) | [E-mail](stephanie_souzadf@outlook.com)  
-_(Adicione seus contatos reais aqui se desejar)_
+
 
 
