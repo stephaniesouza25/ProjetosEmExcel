@@ -29,7 +29,7 @@ Este dashboard foi desenvolvido com base nas aulas do professor **João Paulo**,
 
 ## 🖼️ Captura de Tela
 
-![Dashboard Financeiro](./Captura%20de%20Tela%20(44).png)
+![Dashboard Financeiro](https://github.com/stephaniesouza25/ProjetosEmExcel/blob/main/Financeira/Dashboard.png)
 
 ## 👩‍💻 Sobre mim
 
